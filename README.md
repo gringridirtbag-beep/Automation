@@ -1,2 +1,2 @@
 # Automation
-this is the DemoQA tests
+these are the DemoQA tests
